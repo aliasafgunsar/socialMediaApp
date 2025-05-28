@@ -126,12 +126,21 @@ lib/
 - **Kullanıcı Profili:** Kullanıcı bilgileri ve gönderileri
 - **Gönderi Formu:** Yeni gönderi ekle/düzenle
 -
-<img src="assets/screenshots/sosyal_medya.jpg" width="400" height="300" />
-<img src="assets/screenshots/kullanici_profili.jpg" width="400" height="300" />
-<img src="assets/screenshots/gonderi_detayi.jpg" width="400" height="300" />
-<img src="assets/screenshots/gonderi_detayi.jpg" width="400" height="300" />
-<img src="assets/screenshots/gonderi_alinamadi.jpg" width="400" height="300" />
-<img src="assets/screenshots/kullanici_alinamadi.jpg" width="400" height="300" />
+<p float="left">
+  <img src="assets/screenshots/sosyal_medya.jpg" width="300" style="object-fit: contain; margin-right: 10px;" />
+  <img src="assets/screenshots/kullanici_profili.jpg" width="300" style="object-fit: contain;" />
+</p>
+
+<p float="left" style="margin-top: 10px;">
+  <img src="assets/screenshots/gonderi_detayi.jpg" width="300" style="object-fit: contain; margin-right: 10px;" />
+  <img src="assets/screenshots/gonderi_detayi.jpg" width="300" style="object-fit: contain;" />
+</p>
+
+<p float="left" style="margin-top: 10px;">
+  <img src="assets/screenshots/gonderi_alinamadi.jpg" width="300" style="object-fit: contain; margin-right: 10px;" />
+  <img src="assets/screenshots/kullanici_alinamadi.jpg" width="300" style="object-fit: contain;" />
+</p>
+
 
 ---
 
@@ -147,5 +156,5 @@ lib/
 
 **Ali Asaf Günşar**  
 📧 aliasafgunsar@gmail.com  
-🌐 [Sitem](https://aliasafgunsar.com)
+🌐 [Sitem](https://aliasafgunsar.com)  
 🔗 [LinkedIn Profilim](https://linkedin.com/in/aliasafgunsar)
