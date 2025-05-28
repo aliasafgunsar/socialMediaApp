@@ -125,9 +125,13 @@ lib/
 - **Kullanıcı Listesi:** Tüm kullanıcılar
 - **Kullanıcı Profili:** Kullanıcı bilgileri ve gönderileri
 - **Gönderi Formu:** Yeni gönderi ekle/düzenle
-
-![Ana Sayfa](assets/screenshots/sosyal_medya.jpg)
-![Kullanici Profili](assets/screenshots/kullanici_profili.jpg)
+-
+<img src="assets/screenshots/sosyal_medya.jpg" width="400" height="300" />
+<img src="assets/screenshots/kullanici_profili.jpg" width="400" height="300" />
+<img src="assets/screenshots/gonderi_detayi.jpg" width="400" height="300" />
+<img src="assets/screenshots/gonderi_detayi.jpg" width="400" height="300" />
+<img src="assets/screenshots/gonderi_alinamadi.jpg" width="400" height="300" />
+<img src="assets/screenshots/kullanici_alinamadi.jpg" width="400" height="300" />
 
 ---
 
@@ -143,5 +147,5 @@ lib/
 
 **Ali Asaf Günşar**  
 📧 aliasafgunsar@gmail.com  
-🌐 aliasafgunsar.com
+🌐 [Sitem](https://aliasafgunsar.com)
 🔗 [LinkedIn Profilim](https://linkedin.com/in/aliasafgunsar)
